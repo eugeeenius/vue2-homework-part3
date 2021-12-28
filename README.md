@@ -17,6 +17,8 @@
 Необязательно:
 - Можно не использовать `tailwindcss`. По умолчанию он подключен.
 
+В проекте должны без ошибок выполняться команды `npm run build` и `npm run preview`.
+
 Рабочие материалы:
 - [Макет чата Figma](https://www.figma.com/file/cVJMc30VR4Mu84dIAj7bUh/Chat-UI-kit-(Community))
 - [Документация по функции `h`](https://ru.vuejs.org/v2/guide/render-function.html#%D0%90%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-createElement)
