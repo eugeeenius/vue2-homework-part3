@@ -1,7 +1,11 @@
 <script>
+import CChat from "@/components/c-chat";
+
 export default {
   render(h) {
-    return h("h1", { class: "p-5 w-[32rem] text-sky-400" }, "App")
+    return h("div", {
+      class: "flex justify-center items-center w-full h-screen bg-slate-500"
+    }, [h(CChat)]);
   }
 };
 </script>
